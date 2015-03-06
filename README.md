@@ -1,7 +1,7 @@
 # インデックス
-1. [プロジェクトの作成](01.create)
-1. [HTMLの表示](02.html)
-1. [WebSocket](03.websocket)
+1. [プロジェクトの作成](https://github.com/sogdice/spring-boot-websocket-hands-on/wiki/01.create)
+1. [HTMLの表示](https://github.com/sogdice/spring-boot-websocket-hands-on/wiki/02.html)
+1. [WebSocket](https://github.com/sogdice/spring-boot-websocket-hands-on/wiki/03.websocket)
 
 # 目的
 SpringBootでWebSocketを使ってみるハンズオンです。<br/>
